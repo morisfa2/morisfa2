@@ -37,7 +37,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=morisfa2&theme=blue-green&card_width=420&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![morisfa2 GitHub stats](https://github-readme-stats.vercel.app/api?username=morisfa2&theme=blue-green&card_width=420&range=all_time)](https://github.com/morisfa2/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morisfa2&theme=blue-green&card_width=345)](https://github.com/morisfa2/github-readme-stats)[![morisfa2 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morisfa2&theme=blue-green&range=last_7_days)](https://github.com/morisfa2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morisfa2&theme=blue-green&card_width=345)](https://github.com/morisfa2/github-readme-stats)
 
 
 <br>
