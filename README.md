@@ -5,7 +5,6 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Fullstack Php-Vue3** at [Horastro](https://horastro.co/)
 - 🏡 Live in **Tehran, Iran**
 - ⚡ **Fun Facts** : 🧗🎶🕹🏕🥾
 
