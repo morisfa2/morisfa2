@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/php"/><img width="64" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg"/> <img src="https://img.icons8.com/?size=64&id=7vdHawe2VPlT&format=png"/> <img src="https://img.icons8.com/color/git"/>  <img src="https://img.icons8.com/color/docker"/>  <img src="https://img.icons8.com/color/sql"/> <img src="https://img.icons8.com/color/bash"/> <img src="https://img.icons8.com/?size=64&id=4PiNHtUJVbLs&format=png&color=000000"/> <img src="https://img.icons8.com/?size=64&id=25Sjy8fKExYA&format=png&color=000000"/>  <img src="https://img.icons8.com/?size=64&id=MWiBjkuHeMVq&format=png&color=000000"/>  
+<img src="https://img.icons8.com/color/php"/><img width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg"/> <img src="https://img.icons8.com/?size=64&id=7vdHawe2VPlT&format=png"/> <img src="https://img.icons8.com/color/git"/>  <img src="https://img.icons8.com/color/docker"/>  <img src="https://img.icons8.com/color/sql"/> <img src="https://img.icons8.com/color/bash"/> <img src="https://img.icons8.com/?size=64&id=4PiNHtUJVbLs&format=png&color=000000"/> <img src="https://img.icons8.com/?size=64&id=25Sjy8fKExYA&format=png&color=000000"/>  <img src="https://img.icons8.com/?size=64&id=MWiBjkuHeMVq&format=png&color=000000"/>  
 
 
 
