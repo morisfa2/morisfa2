@@ -5,7 +5,7 @@
 
 ## About Me :
 
-- 🏡 Live in **Tehran, Iran**
+- 🏡 Live in **Dubai - abu dhabi**
 - ⚡ **Fun Facts** : 🧗🎶🕹🏕🥾
 
 <br>
